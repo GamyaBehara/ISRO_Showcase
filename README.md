@@ -5,21 +5,12 @@ It is designed to provide an **interactive and modern experience** for anyone cu
 
 ---
 
-## 🔹 What does it do?
-- Displays ISRO’s **vision, achievements, and upcoming missions**.  
-- Highlights **key leaders and scientists** behind India’s space success.  
-- Showcases important statistics like **missions launched, satellites, and milestones**.  
-- Provides a **modern, responsive, and styled interface**.  
-- Includes a **footer with developer details** for personalization.  
+## 🔹 What does it do & Why this project?
+ISRO Showcase presents ISRO’s **vision, achievements, upcoming missions, and key leaders** in a modern, interactive way.  
+It highlights important **statistics, milestones, and scientists** who shaped India’s space program, while maintaining a **clean and responsive UI**.  
 
----
-
-## 🔹 Why this project?
-The official ISRO website is informative but more formal.  
-This project was created as a **modern, visually appealing alternative** that:  
-- Focuses on **storytelling** through UI.  
-- Acts as a **portfolio project** to showcase React skills.  
-- Pays tribute to the **scientists and visionaries** of ISRO.  
+This project is built as a **tribute to ISRO’s legacy** and as a **portfolio project** to demonstrate React skills, creativity, and attention to detail.  
+ 
 
 ---
 
@@ -31,16 +22,6 @@ This project was created as a **modern, visually appealing alternative** that:
 
 ---
 
-## 🚀 Features
-1. **Home Page** – Hero section with ISRO theme.  
-2. **About Page** – Brief history and facts about ISRO.  
-3. **Missions Page** – Past, present, and upcoming missions.  
-4. **People Page** – Leaders and scientists who shaped ISRO.  
-5. **Live Services Page** – Showcasing ISRO’s services.  
-6. **Footer Section** – Developer details with GitHub, LinkedIn, and email.  
-
----
-
 ## 📸 Application Screenshots
 
 ### Home Page
@@ -49,11 +30,26 @@ This project was created as a **modern, visually appealing alternative** that:
 
 <img width="1882" height="902" alt="home 2" src="https://github.com/user-attachments/assets/41f462e1-2f5b-4bb3-8b12-cc772f784462" />
 
-
-
 ### About Page
 
+<img width="1896" height="914" alt="about 1" src="https://github.com/user-attachments/assets/36539889-8003-45d9-b63e-b55a74941d63" />
+
+<img width="1892" height="901" alt="about 2" src="https://github.com/user-attachments/assets/a0deea50-7ac5-48fc-822a-db8628a74ab6" />
+
+### Missions
+
+<img width="1895" height="907" alt="missions" src="https://github.com/user-attachments/assets/cc083c6d-d6cc-4851-9441-b530afcdb50b" />
+
+<img width="1887" height="904" alt="missions 2" src="https://github.com/user-attachments/assets/a951dd06-25d2-4e80-8ffe-159970965a42" />
+
 ### People Page
+
+<img width="1887" height="904" alt="people" src="https://github.com/user-attachments/assets/eaad2497-90d8-49c7-b8eb-5e5c89445086" />
+
+### Live Services/ Links
+
+<img width="1889" height="904" alt="live" src="https://github.com/user-attachments/assets/c838cc19-084a-482a-b114-c9ad65bdb370" />
+
 
 ---
 
@@ -63,10 +59,3 @@ This project was created as a **modern, visually appealing alternative** that:
 - Build an **API-powered section** for live ISRO updates.  
 - Add **search and filter options** for missions and leaders.  
 
----
-
-## 👨‍💻 Developer
-**Gamya Behara**  
-- 📧 Email: beherasrigamya@gmail.com  
-- 🌐 GitHub: [GamyaBehara](https://github.com/GamyaBehara)  
-- 💼 LinkedIn: [Gamya Behara](https://www.linkedin.com/in/gamyabehara/)  
