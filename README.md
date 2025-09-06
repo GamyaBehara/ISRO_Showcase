@@ -6,10 +6,11 @@ It is designed to provide an **interactive and modern experience** for anyone cu
 ---
 
 ## 🔹 What does it do & Why this project?
-ISRO Showcase presents ISRO’s **vision, achievements, upcoming missions, and key leaders** in a modern, interactive way.  
-It highlights important **statistics, milestones, and scientists** who shaped India’s space program, while maintaining a **clean and responsive UI**.  
+ISRO Showcase brings together ISRO’s **vision, achievements, upcoming missions, and pioneering leaders** in a modern, interactive format.  
+It highlights key **statistics, milestones, and inspiring scientists** who have shaped India’s journey in space exploration, all within a **clean and responsive design**.  
 
-This project is built as a **tribute to ISRO’s legacy** and as a **portfolio project** to demonstrate React skills, creativity, and attention to detail.  
+This project serves both as a **tribute to ISRO’s remarkable legacy** and as a way to showcase **React development skills, creativity, and storytelling through UI**.  
+
  
 
 ---
